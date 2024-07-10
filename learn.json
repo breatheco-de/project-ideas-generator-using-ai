@@ -1,0 +1,19 @@
+{
+	"title": {
+		"us": "Code an Excuse Generator Using AI",
+		"es": "Generador de excusas en usando IA"
+	},
+	"slug": "excuse-generator-using-ai",
+	"status": "published",
+	"duration": 4,
+	"preview": "https://github.com/breatheco-de/excuse-generator-using-ai/blob/master/preview.gif?raw=true",
+	"translations": ["es", "us"],
+	"difficulty": "beginner",
+	"technologies": ["javascript", "html", "the-dom", "python", "generative-ai"],
+	"description": {
+		"us": "Create an AI-powered Excuse Generator using Python or JavaScript. Learn to connect with ChatGPT's API and generate creative excuses. Perfect for coding practice!",
+		"es": "Crea un Generador de Excusas con IA usando Python o JavaScript. Aprende a conectar con la API de ChatGPT y genera excusas creativas. ¡Ideal para practicar programación!"
+	},
+	"autoPlay": false,
+	"projectType": "project"
+}
