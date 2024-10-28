@@ -6,7 +6,7 @@
   "slug": "project-ideas-generator-ai-react",
   "status": "published",
   "duration": 4,
-  "preview": "https://storage.googleapis.com/screenshots-breathecode/f92684aa2ed2bcb22b12f5c49c87785c54a0cac66e37599cc71967019cd9d075",
+  "preview": "",
   "translations": ["es", "us"],
   "difficulty": "intermediate",
   "technologies": ["javascript", "react", "prompt-engineer", "generative-ai"],
