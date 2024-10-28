@@ -1,19 +1,19 @@
 {
-	"title": {
-		"us": "Code an Excuse Generator Using AI",
-		"es": "Generador de excusas en usando IA"
-	},
-	"slug": "excuse-generator-using-ai",
-	"status": "published",
-	"duration": 4,
-	"preview": "https://github.com/breatheco-de/excuse-generator-using-ai/blob/master/preview.gif?raw=true",
-	"translations": ["es", "us"],
-	"difficulty": "beginner",
-	"technologies": ["javascript", "html", "the-dom", "python", "generative-ai"],
-	"description": {
-		"us": "Create an AI-powered Excuse Generator using Python or JavaScript. Learn to connect with ChatGPT's API and generate creative excuses. Perfect for coding practice!",
-		"es": "Crea un Generador de Excusas con IA usando Python o JavaScript. Aprende a conectar con la API de ChatGPT y genera excusas creativas. ¡Ideal para practicar programación!"
-	},
-	"autoPlay": false,
-	"projectType": "project"
+  "title": {
+    "us": "Project Ideas Generator using AI and React",
+    "es": "Generador de Ideas de Proyectos usando IA y React"
+  },
+  "slug": "project-ideas-generator-ai-react",
+  "status": "published",
+  "duration": 4,
+  "preview": "https://storage.googleapis.com/screenshots-breathecode/f92684aa2ed2bcb22b12f5c49c87785c54a0cac66e37599cc71967019cd9d075",
+  "translations": ["es", "us"],
+  "difficulty": "intermediate",
+  "technologies": ["javascript", "react", "prompt-engineer", "generative-ai"],
+  "description": {
+    "us": "Build a Project Ideas Generator using AI and React! Create a React app that uses ChatGPT's API to generate project ideas based on user input. Enhance your coding skills with this interactive project!",
+    "es": "¡Construye un Generador de Ideas de Proyectos usando IA y React! Crea una app React que use la API de ChatGPT para generar ideas de proyectos según la entrada del usuario. ¡Mejora tus habilidades con este proyecto!"
+  },
+  "autoPlay": false,
+  "projectType": "project"
 }
