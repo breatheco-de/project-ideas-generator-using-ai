@@ -2,7 +2,7 @@
 # Generador de Ideas de Proyectos usando IA y React
 <!-- endhide -->
 
-<!-- howtostart -->
+<onlyfor saas="true" withBanner="true">
 ## 🌱 ¿Cómo iniciar este proyecto?
 
 No clones este repositorio porque vamos a utilizar una plantilla diferente.
@@ -16,7 +16,7 @@ https://github.com/4GeeksAcademy/react-hello
 ```
 
 > ⚠ ¡Necesitarás tener Node.js instalado si lo haces localmente, pero todo eso ya está instalado en Codespaces o Gitpod!
-<!-- endhowtostart -->
+</onlyfor>
 
 ## 📝 Instrucciones
 
