@@ -2,7 +2,7 @@
 # Project Ideas Generator using AI and React
 <!-- endhide -->
 
-<onlyfor saas="true" withBanner="false">
+<onlyfor saas=false withBanner="false">
 ## 🌱 How to start this project?
 
 Do not clone this repository because we will be using a different template.
