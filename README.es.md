@@ -2,7 +2,7 @@
 # Generador de Ideas de Proyectos usando IA y React
 <!-- endhide -->
 
-<onlyfor saas="true" withBanner="false">
+<onlyfor saas=false withBanner="false">
 ## 🌱 ¿Cómo iniciar este proyecto?
 
 No clones este repositorio porque vamos a utilizar una plantilla diferente.
