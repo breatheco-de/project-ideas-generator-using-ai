@@ -2,6 +2,7 @@
 # Project Ideas Generator using AI and React
 <!-- endhide -->
 
+<how-to-start>
 ## 🌱 How to start this project?
 
 Do not clone this repository because we will be using a different template.
@@ -15,6 +16,7 @@ https://github.com/4GeeksAcademy/react-hello
 ```
 
 > ⚠ You will need to have Node.js installed if you do it locally, but all of that is already installed on Codespaces or Gitpod!
+</how-to-start>
 
 ## 📝 Instructions:
 
